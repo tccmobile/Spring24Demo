@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/workspaces/Spring24Demo/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/MyExecutable.dir/Person.cpp.o -c /workspaces/Spring24Demo/Person.cpp",
+  "file": "/workspaces/Spring24Demo/Person.cpp"
+},
+{
+  "directory": "/workspaces/Spring24Demo/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/MyExecutable.dir/main.cpp.o -c /workspaces/Spring24Demo/main.cpp",
+  "file": "/workspaces/Spring24Demo/main.cpp"
+}
+]

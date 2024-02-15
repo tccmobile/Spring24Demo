@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/workspaces/Spring24Demo/Person.cpp
+Person.hpp
+/workspaces/Spring24Demo/Person.hpp
+iostream
+-
+
+/workspaces/Spring24Demo/Person.hpp
+string
+-
+

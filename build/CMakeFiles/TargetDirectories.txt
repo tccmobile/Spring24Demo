@@ -1,0 +1,3 @@
+/workspaces/Spring24Demo/build/CMakeFiles/rebuild_cache.dir
+/workspaces/Spring24Demo/build/CMakeFiles/edit_cache.dir
+/workspaces/Spring24Demo/build/CMakeFiles/MyExecutable.dir
